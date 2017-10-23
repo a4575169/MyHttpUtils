@@ -30,4 +30,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.alibaba:fastjson:1.2.10'
     compile 'com.squareup.okhttp3:okhttp:3.8.0'
+//    compile 'com.github.franmontiel:PersistentCookieJar:v1.0.1'
 }
